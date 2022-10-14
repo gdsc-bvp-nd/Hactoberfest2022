@@ -35,7 +35,7 @@ Open Terminal and type below commands
 ```bash
 $ cd Desktop
 $ git clone https://github.com/<YOUR git USERNAME>/Project-Hub-2022.git
-$ cd Project-Hub
+$ cd Project-Hub-2022
 ```
 
 ## Step 7
