@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Calculator.kt</string>
+    <string name="cal_text">0</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="Divide">/</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="Multiply">*</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="Subtract">-</string>
+    <string name="_0">0</string>
+    <string name="clr">CLR</string>
+    <string name="Equals">=</string>
+    <string name="Decimal">.</string>
+</resources>
