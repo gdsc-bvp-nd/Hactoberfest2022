@@ -10,3 +10,21 @@
     For each test case, output the final score of Chef in the examination.
     Determine the final score of the Chef.
     */
+
+  #include <iostream>
+using namespace std;
+
+int main() {
+int n;
+cin>>n;
+while(n--){
+   int x,y;
+   cin>>x>>y;
+
+if (x>y)
+cout<<x<<endl;
+else
+cout<<y<<endl;
+}
+return 0;
+}
