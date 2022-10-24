@@ -33,3 +33,58 @@
 // 1 <= N <= 10^6
 // 0 <= A[i] <= 2
 
+ #include<bits/stdc++.h>
+using namespace std;
+int main() {
+
+    int t;
+    cin >> t;
+
+    while(t--){
+        int n;
+        cin >>n;
+        int a[n];
+        for(int i=0;i<n;i++){
+            cin >> a[i];
+        }
+
+        sort(a,a+n);
+
+        for(int i=0;i<n;i++){
+            cout << a[i]  << " ";
+        }
+
+        cout << endl;
+       
+       
+    }
+    return 0;
+}
+#include<bits/stdc++.h>
+using namespace std;
+
+int main() {
+
+    int t;
+    cin >> t;
+
+    while(t--){
+        int n;
+        cin >>n;
+        int a[n];
+        for(int i=0;i<n;i++){
+            cin >> a[i];
+        }
+
+        sort(a,a+n);
+
+        for(int i=0;i<n;i++){
+            cout << a[i]  << " ";
+        }
+
+        cout << endl;
+       
+       
+    }
+    return 0;
+}
