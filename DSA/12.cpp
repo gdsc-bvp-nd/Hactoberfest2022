@@ -9,3 +9,16 @@ Problem
         If Chef is prone to errors print YES, otherwise print NO.
         You may print each character of the string in uppercase or lowercase (for example, the strings yes, Yes, yEs, and YES will all be treated as identical).
 */
+#include <iostream>
+using namespace std;
+
+int main() {
+    int X,Y;
+    cin>>X>>Y;
+    if(Y>X){
+        cout<<"YES";
+    }
+    else{
+        cout<<"NO";
+    }
+}
